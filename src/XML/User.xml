@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<DoT class="DOM.DoT">
+		<port>8888</port>
+		<test>o:/opt/apache/tomcat</test>
+	</DoT>
+	<Sta class="DOM.Sta">
+		<id>1</id>
+		<name></name>
+	</Sta>
+	<Tea class="DOM.Tea">
+		<port>2222</port>
+		<age>23</age>
+		<gender>girl</gender>
+	</Tea>
+</Project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<records>
+	<record>
+		<name>tom</name>
+		<price>80</price>
+	</record>
+	
+	<record>
+		<name>jack</name>
+		<price>80</price>
+	</record>
+</records>
